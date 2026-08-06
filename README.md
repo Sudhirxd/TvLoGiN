@@ -24,7 +24,7 @@
 * 🟣 **HBO Max (Max)**: 6-character TV activation.
 * 🔵 **Surfshark VPN**: 6-character TV pairing code.
 * 🟢 **Spotify Premium**: 6-character TV connect code.
-* 🔵 **JioHotstar**: 6-character TV code or **Automated QR Code Screenshot Scanner**.
+* 🔵 **JioHotstar**: **Automated QR Code Screenshot Scanner**.
 
 ---
 
