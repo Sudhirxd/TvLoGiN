@@ -16,7 +16,7 @@
 
 ## 📌 Overview & Supported Services
 
-**XDROID TV Activation Bot** allows you to seamlessly activate popular streaming services and VPN applications directly on your Smart TV screen without manually typing passwords or credentials.
+**XDROID TV Activation Bot** allows you to seamlessly activate popular streaming services and VPN applications directly on your Smart TV screen without any premium absolutely free of cost no need to pay ,just login and enjoy streaming.
 
 ### 🌟 Supported Platforms
 * 🔴 **Netflix**: Fast 8-digit TV code activation.
